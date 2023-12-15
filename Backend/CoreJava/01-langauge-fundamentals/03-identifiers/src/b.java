@@ -1,0 +1,4 @@
+class 0HelloWorld
+{
+} 
+
