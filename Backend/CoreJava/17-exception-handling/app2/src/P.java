@@ -12,7 +12,7 @@ class P
 		catch (ArithmeticException ex)
 		{
 			System.out.println("from catch: " + ex);
-			System.exit(0);
+			System.exit(0);//ITS like an emergency exit to avoid finally keyword
 		}
 		finally
 		{
@@ -21,3 +21,4 @@ class P
 		System.out.println("main end");
 	}
 }
+//
