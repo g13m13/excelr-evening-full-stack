@@ -1,6 +1,6 @@
 class I
 {
-	int test(boolean flag)
+	int test(boolean flag)// error: missing return statement
 	{
 		if (flag)
 		{

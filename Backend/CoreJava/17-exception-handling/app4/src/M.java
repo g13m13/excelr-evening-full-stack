@@ -5,3 +5,5 @@ class M
 		Class.forName("");
 	}
 }
+// error: unreported exception ClassNotFoundException; must be caught or declared to be thrown
+              //  Class.forName("");

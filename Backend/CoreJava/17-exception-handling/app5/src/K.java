@@ -18,3 +18,9 @@ class K
 		System.out.println("main end");
 	}
 }
+//L.java:9: error: unreported exception InterruptedException; must be caught or declared to be thrown
+              //  Thread.sleep(1000);
+                            ^
+//L.java:10: error: unreported exception ClassNotFoundException; must be caught or declared to be thrown
+                //Class.forName("");
+                             ^

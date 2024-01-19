@@ -11,3 +11,7 @@ class S
 		System.out.println("main end");
 	}
 }
+//S.java:10: error: unreported exception Throwable; must be caught or declared to be thrown
+               // test();
+                    ^
+// 1 error

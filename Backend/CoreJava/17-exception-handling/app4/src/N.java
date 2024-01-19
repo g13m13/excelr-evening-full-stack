@@ -9,7 +9,7 @@ class N
 		}
 		catch (ClassNotFoundException ex)
 		{
-			ex.printStackTrace();
+			ex.printStackTrace();//for getting details means at wht line no. we hv exception
 		}
 		System.out.println("main end");
 	}

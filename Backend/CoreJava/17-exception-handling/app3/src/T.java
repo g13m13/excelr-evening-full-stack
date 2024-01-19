@@ -2,7 +2,7 @@ class T
 {
 	int test()
 	{
-		try
+		try//now cathch block will not b excuted bcoz exception is not there
 		{
 		}
 		catch (ArithmeticException ex)

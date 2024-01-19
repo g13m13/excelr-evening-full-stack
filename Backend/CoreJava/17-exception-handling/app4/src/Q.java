@@ -6,3 +6,6 @@ class Q
 		FileReader fileReader = new FileReader("");
 	}
 }
+// error: unreported exception FileNotFoundException; must be caught or declared to be thrown
+               // FileReader fileReader = new FileReader("");
+                                        
